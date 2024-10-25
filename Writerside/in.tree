@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="计算机软考中级笔记"
+                  start-page="计算机系统知识.md">
+
+    <toc-element topic="计算机系统知识.md">
+        <toc-element topic="数值及其转换和数据的表示.md">
+            <toc-element topic="进制及其转换.md"/>
+            <toc-element topic="定点数及浮点数.md"/>
+            <toc-element topic="数据校验码.md"/>
+            <toc-element topic="无符号数及有符号数数值表示(原反补移码).md"/>
+        </toc-element>
+        <toc-element topic="计算机系统组成-指令系统和输入输出技术.md">
+            <toc-element topic="计算机组成.md"/>
+            <toc-element topic="指令系统.md"/>
+            <toc-element topic="输入输出技术.md"/>
+        </toc-element>
+        <toc-element topic="存储系统-总线系统-磁盘阵列技术及可靠性.md">
+            <toc-element topic="层次结构.md"/>
+            <toc-element topic="分类.md"/>
+            <toc-element topic="高速缓存Cache.md"/>
+            <toc-element topic="其他存储器.md"/>
+            <toc-element topic="总线系统.md"/>
+            <toc-element topic="磁盘阵列技术.md"/>
+            <toc-element topic="计算机可靠性.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="数据结构与算法基础.md">
+        <toc-element topic="基本概念.md">
+            <toc-element topic="数据结构.md"/>
+            <toc-element topic="算法.md"/>
+        </toc-element>
+        <toc-element topic="线性表-栈-队列-字符串-数组-矩阵-广义表.md">
+            <toc-element topic="线性表.md"/>
+            <toc-element topic="栈和队列.md"/>
+            <toc-element topic="字符串-数组-矩阵-广义表.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
